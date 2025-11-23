@@ -1,5 +1,5 @@
 # FlexInfo
-Flex 6000 and 8000 series utility to put radio voltage, temp and active Global Profile in a small movable box that can hover over the top border of SmartSDR.
+Flex 6000, 8000 and Aurora series utility to put radio voltage, temp and active Global Profile in a small movable box that can hover over the top border of SmartSDR.
 
 Click the temperature to toggle between Celsius and Fahrenheit.  Right-click the blank part of the little window to close.  It will automagically close when you exit SmartSDR.
 
